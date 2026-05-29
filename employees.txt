@@ -7,25 +7,15 @@ alternative to avoid such problem. As an AI Engineer you must give Solution to t
 
 A) How will you achieve this in AI
 
-Ans: Employee Churn Prediction
-
-* Collect Data
-*prediction
-*Data Preprocessing
-*Feature Selection
-*Model Building
+Ans: predicting employee attrition (resignation) using data analysis and machine learning
 
 B) Find out the 3 -Stage of Problem Identification
 
-Ans: 1 problem definition
-     Company is losing employees unexpectedly, causing project delays. Goal: Predict resignation before it happens.
-   
-     2. Data Identification
-        Identify what data is needed — employee records, salary, attendance, performance ratings, tenure
+Ans: Stage 1: The problem belongs to the HR domain and is solved using Machine Learning techniques.
 
-     3. Feasibility & Approach
-        Check if AI/ML can solve it → Yes, using Classification model to predict resign probability
+Stage 2: Since we have labeled data of employees who resigned or not, it is a Supervised Learning problem.
 
+Stage 3: Because the output is Yes/No (resign or not resign), it is a Classification problem.
 
 C) Name the project
 
