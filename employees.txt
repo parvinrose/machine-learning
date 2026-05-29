@@ -1,0 +1,41 @@
+A company works with number of employees, all the works are dependents on the employees. Even
+if one of the employees resign the job immediately then assigned work will be not finished at the
+time, so delivery of the project to the clients will be delayed. Company planned to make solution for
+this, they want to know which employee may resign next. If they know previously, they can arrange
+alternative to avoid such problem. As an AI Engineer you must give Solution to this.
+
+
+A) How will you achieve this in AI
+
+Ans: Employee Churn Prediction
+
+* Collect Data
+*prediction
+*Data Preprocessing
+*Feature Selection
+*Model Building
+
+B) Find out the 3 -Stage of Problem Identification
+
+Ans: 1 problem definition
+     Company is losing employees unexpectedly, causing project delays. Goal: Predict resignation before it happens.
+   
+     2. Data Identification
+        Identify what data is needed — employee records, salary, attendance, performance ratings, tenure
+
+     3. Feasibility & Approach
+        Check if AI/ML can solve it → Yes, using Classification model to predict resign probability
+
+
+C) Name the project
+
+Ans: Employee Prediction System
+
+D) Create the dummy Dataset
+Ans:
+
+ Emp_ID    Age    Department  Work_Hours   Performance  Years_at_Company Resigned
+  1         26     HR		9             3.8          4
+  2         36     sales        9              4.0         6
+  4         45      audit       9              3.5         3
+  5         24      IT          9               4.5         2
